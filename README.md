@@ -22,10 +22,10 @@
 </div>
 
 <div id="badges" align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=MichaelBoyo&style=flat-square&color=blue" alt=""/>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/sushrutmishra27/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/MichaelBoyo/github-profile-trophy)
 ---
 
 ### :man_technologist: About Me : I am a Software Engineer and Technical Content Writer.

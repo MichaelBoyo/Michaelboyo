@@ -35,7 +35,7 @@
 
 - :zap: In my free time, I create content and write technical articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Sushrut-Hi-red)](https://sushrut.carrd.co)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Michael-Hi-red)](mikeboyo.netlify.app)
   
 ---
 

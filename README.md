@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h3 align="center">A Technical content writer and an aspiring Developer Relations Engineer</h3>
+<h3 align="center">A Software Engineer and an aspiring Developer Relations Engineer</h3>
   
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/michael-bidemi-boyo-2a5822160/">
@@ -33,7 +33,7 @@
 
 - :seedling: Exploring Developer Relations/Advocacy and Community Management space.
 
-- :zap: In my free time, I create content and write technical articles.
+- :zap: In my free time, I volunteer to teach kids coding.
   
 ---
 

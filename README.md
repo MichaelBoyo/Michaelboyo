@@ -25,7 +25,7 @@
 <img src="https://komarev.com/ghpvc/?username=MichaelBoyo&style=flat-square&color=blue" alt=""/>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MichaelBoyo)](https://github.com/MichaelBoyo/github-profile-trophy)
+
 ---
 
 ### :man_technologist: About Me : I am a Software Engineer and Technical Content Writer.

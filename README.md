@@ -28,7 +28,7 @@
 
 ---
 
-### :man_technologist: About Me : I am a Software Engineer and Technical Content Writer.
+### :man_technologist: About Me : I am a Software Engineer and some other few things.
 - :telescope: I’m working as a Software Engineer with experience in Backend and  Frontend Technologies, Web3, and Python.
 
 - :seedling: Exploring Developer Relations/Advocacy and Community Management space.
